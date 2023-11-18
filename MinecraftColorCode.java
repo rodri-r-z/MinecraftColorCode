@@ -1,5 +1,3 @@
-package brydget.cores.velocitybanspremium;
-
 public class MinecraftColorCode {
     public static String Black = "§0";
     public static String DarkBlue = "§1";
